@@ -1,0 +1,24 @@
+.curso {
+    width: 250px;
+    border: 1px solid black;
+    padding: 15px;
+    margin: 15px;
+}
+
+.python {
+    background-image: url("../imagenes/python.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.diseño {
+    background-image: url("diseñografi.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.javascript {
+    background-image: url("../imagenes/javascript.jpg");
+    background-size: cover;
+    background-position: center;
+}
